@@ -7,7 +7,6 @@
 [![Edge Add-ons](https://img.shields.io/badge/Edge%20Add--ons-%E5%B7%B2%E4%B8%8A%E6%9E%B6-0C59A4)](https://microsoftedge.microsoft.com/addons/detail/mkfokebcmknjnbjceabimdchdfhbdhhc)
 [![npm core](https://img.shields.io/npm/v/gacha-calendar-core?label=gacha-calendar-core)](https://www.npmjs.com/package/gacha-calendar-core)
 [![npm plugin](https://img.shields.io/npm/v/dsh-gacha-calendar?label=dsh-gacha-calendar)](https://www.npmjs.com/package/dsh-gacha-calendar)
-[![ghcr](https://img.shields.io/badge/ghcr.io-shopping--mcp-2496ED?logo=docker&logoColor=white)](https://github.com/EastMG/dsh-shopping-mcp/pkgs/container/shopping-mcp)
 
 ---
 
@@ -27,7 +26,7 @@
 
 ## 🛒 其他在做的
 
-- **[shopping-mcp](https://github.com/EastMG/dsh-shopping-mcp)** — 淘宝 / 京东 / 拼多多 商品搜索、详情、转链接的 MCP server。只调官方开放平台接口，没有凭证时以 mock 模式直接可跑。也有容器镜像：`docker run --rm -i ghcr.io/eastmg/shopping-mcp:latest`。
+- **[shopping-mcp](https://github.com/EastMG/dsh-shopping-mcp)** — 淘宝 / 京东 / 拼多多 商品搜索、详情、转链接的 MCP server。只调官方开放平台接口，没有凭证时以 mock 模式直接可跑。
 - **[millennium-csp-bridge](https://github.com/EastMG/millennium-csp-bridge)** — 让 Millennium 主题与插件脚本在 Steam 商店 / 社区页恢复执行（不关闭 CSP，不改主题）。
 
 ## 🧰 常用的
@@ -37,7 +36,7 @@
 ## 📌 最近
 
 - **2026-10** — 新增 `gacha-calendar-app`（PWA 已可安装、离线可用）与 `gacha-calendar`（Windows 任务栏小组件 v0.1）
-- **2026-10** — `shopping-mcp` 发布 ghcr.io 容器镜像（amd64 / arm64），主页与公开 [Roadmap](https://github.com/users/EastMG/projects/1) 上线
+- **2026-10** — 主页与公开 [Roadmap](https://github.com/users/EastMG/projects/1) 上线
 - **2026-10** — 扩展 v0.2.6、DSH 插件 v0.12.5、共享核心 `gacha-calendar-core` 0.12.5
 - PWA 的数据由 GitHub Actions 每 6 小时抓取一轮后重新部署（浏览器受 CORS 限制，Node 没有）
 
