@@ -42,3 +42,5 @@
 ## 🔗 找我
 
 [npm](https://www.npmjs.com/~eastmorning) · [Edge 加载项](https://microsoftedge.microsoft.com/addons/detail/mkfokebcmknjnbjceabimdchdfhbdhhc) · [二游日历 PWA](https://eastmg.github.io/gacha-calendar-app/)
+
+Roadmap：[二游日历 · Roadmap](https://github.com/users/EastMG/projects/1)
